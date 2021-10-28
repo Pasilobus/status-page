@@ -20,6 +20,7 @@ status-website:
   cname: status.pasilobus.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.pasilobus.com/apple-touch-icon.png
+  favicon: https://www.pasilobus.com/favicon-32x32.png
   name: Pasilobus Status
   introTitle: "**Pasilobus** system status"
   introMessage: The current status and history of Pasilobus platform services.
