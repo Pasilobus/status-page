@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.pasilobus.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.pasilobus.com/apple-touch-icon.png
   name: Pasilobus Status
   introTitle: "**Pasilobus**system status"
   introMessage: "The current status and history of Pasilobus platform services."
