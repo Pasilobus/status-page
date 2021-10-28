@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pasilobus Status
   introTitle: "**Pasilobus**system status"
-  introMessage: "The current status and history of Pasilobus platform services."
+  introMessage: The current status and history of Pasilobus platform services.
   navbar:
     - title: Status
       href: /
