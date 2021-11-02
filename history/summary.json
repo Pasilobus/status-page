@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/www.pasilobus.com",
     "slug": "cloud",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 101,
     "timeDay": 164,
     "timeWeek": 101,
@@ -24,18 +24,20 @@
     "url": "https://www.comity.app",
     "icon": "https://favicons.githubusercontent.com/www.comity.app",
     "slug": "comity",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 361,
     "timeDay": 805,
     "timeWeek": 361,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-02": 1
+    }
   },
   {
     "name": "Cybarmor",
@@ -61,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/www.elixirxr.app",
     "slug": "elixir-xr",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 307,
     "timeDay": 235,
     "timeWeek": 307,
@@ -80,7 +82,7 @@
     "url": "https://www.offerbox.app",
     "icon": "https://favicons.githubusercontent.com/www.offerbox.app",
     "slug": "offerbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,6 +93,8 @@
     "timeWeek": 200,
     "timeMonth": 200,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-02": 0
+    }
   }
 ]
