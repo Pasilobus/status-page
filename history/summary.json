@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 160,
-    "timeDay": 166,
-    "timeWeek": 186,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 161,
+    "timeDay": 190,
+    "timeWeek": 193,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2021-10-28": 76
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 210,
+    "time": 327,
+    "timeDay": 190,
     "timeWeek": 359,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 163,
-    "timeWeek": 285,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "time": 631,
+    "timeDay": 241,
+    "timeWeek": 292,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 288,
-    "timeDay": 209,
-    "timeWeek": 237,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "time": 286,
+    "timeDay": 221,
+    "timeWeek": 238,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2021-10-28": 76
     }
@@ -80,19 +80,19 @@
     "url": "https://www.offerbox.app",
     "icon": "https://favicons.githubusercontent.com/www.offerbox.app",
     "slug": "offerbox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 208,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "89.48%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 211,
+    "timeDay": 99,
+    "timeWeek": 196,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2021-11-23": 0
+      "2021-11-23": 151
     }
   }
 ]
