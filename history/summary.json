@@ -60,7 +60,7 @@
     "url": "https://www.shopxr.app",
     "icon": "https://favicons.githubusercontent.com/www.shopxr.app",
     "slug": "shop-xr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 180,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "Offerbox",
