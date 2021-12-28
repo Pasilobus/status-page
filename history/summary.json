@@ -6,9 +6,9 @@
     "slug": "cloud",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 184,
     "timeDay": 156,
@@ -16,7 +16,6 @@
     "timeMonth": 196,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2021-12-27": 5,
       "2021-10-28": 76
     }
   },
