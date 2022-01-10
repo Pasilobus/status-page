@@ -4,7 +4,7 @@
     "url": "https://www.pasilobus.com",
     "icon": "https://favicons.githubusercontent.com/www.pasilobus.com",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 197,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2022-01-10": 0,
       "2021-10-28": 76
     }
   },
@@ -61,11 +62,11 @@
     "icon": "https://favicons.githubusercontent.com/www.shopxr.app",
     "slug": "shop-xr",
     "status": "down",
-    "uptime": "94.73%",
+    "uptime": "94.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.12%",
-    "uptimeYear": "94.73%",
+    "uptimeYear": "94.81%",
     "time": 327,
     "timeDay": 0,
     "timeWeek": 0,
