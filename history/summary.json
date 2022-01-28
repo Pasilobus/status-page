@@ -45,7 +45,7 @@
     "url": "https://www.cybarmor.app",
     "icon": "https://favicons.githubusercontent.com/www.cybarmor.app",
     "slug": "cybarmor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 379,
     "timeMonth": 329,
     "timeYear": 483,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-28": 0
+    }
   },
   {
     "name": "ShopXR",
@@ -64,11 +66,11 @@
     "icon": "https://favicons.githubusercontent.com/www.shopxr.app",
     "slug": "shop-xr",
     "status": "up",
-    "uptime": "96.22%",
+    "uptime": "96.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "96.22%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "96.25%",
     "time": 325,
     "timeDay": 187,
     "timeWeek": 313,
@@ -86,11 +88,11 @@
     "icon": "https://favicons.githubusercontent.com/www.offerbox.app",
     "slug": "offerbox",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 211,
     "timeDay": 189,
     "timeWeek": 201,
