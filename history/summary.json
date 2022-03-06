@@ -64,18 +64,18 @@
     "icon": "https://favicons.githubusercontent.com/www.shopxr.app",
     "slug": "shop-xr",
     "status": "down",
-    "uptime": "62.60%",
+    "uptime": "62.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "62.60%",
+    "uptimeYear": "62.13%",
     "time": 324,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2022-03-06": 11,
+      "2022-03-06": 1099,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
       "2022-03-03": 1440,
@@ -122,7 +122,7 @@
     "url": "https://www.offerbox.app",
     "icon": "https://favicons.githubusercontent.com/www.offerbox.app",
     "slug": "offerbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -134,6 +134,7 @@
     "timeMonth": 205,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2022-03-06": 0,
       "2021-11-23": 151
     }
   }
